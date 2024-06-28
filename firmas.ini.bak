@@ -1,0 +1,34 @@
+[0]
+nombre = Diego Fernando Lepore
+titulo = Ing. en Sistemas
+cargo = Director
+telefono = 3525-645996
+mail = sistemas@linxinformatica.com.ar
+provincia = Cordoba
+localidad = Cordoba
+pais = Argentina
+contacto1 = www
+contacto2 = twitter
+contacto3 = google
+pagina = www.linxinformatica.com.ar
+logo = C:/linx/linx.gif
+logosolo = 0
+logoancho = 120
+logoalto = 150
+htmlcabezera = <html><table><tr><td width="100" height="180" style="border:1px solid #333c87; border-right: none; border-left: none;" align="right" valign="top">
+
+[1]
+nombre = tromas
+titulo = ing.
+cargo = desarlrlo
+telefono = 3525544
+mail = tomas.peschiutta@gmail.com
+provincia = cordoba
+localidad = jesus maria
+pais = argentina
+facebook = facebook
+twitter = th
+google = dflj
+pagina = www.tomaspeschiutta.com.ar
+logo = C:/linx/Linx con horario.jpg
+
